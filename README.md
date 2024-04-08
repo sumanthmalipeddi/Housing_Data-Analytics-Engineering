@@ -19,7 +19,7 @@ Contribute to this open-source project - https://github.com/mage-ai/mage-ai
 As a dedicated Data Analyst and Engineer, I’ve meticulously curated the Housing Data — a rich collection of all sensitive records. Here’s the story behind this dataset:
 
 #### Data Origins:
-Over the 4 years, I’ve painstakingly collected data from various departments, attended countless meetings, and merged and harmonised it into a single, comprehensive CSV file.
+I've attended a ton of meetings, laboriously gathered data from numerous departments—including revenue, housing, and municipal administration—and combined and harmonized it into a single, extensive CSV file over the last four years.
 
 # Data Model
 ![Image](https://github.com/sumanthmalipeddi/GoogleCloudDE/blob/main/data_model.JPG)
