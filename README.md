@@ -1,4 +1,5 @@
 # Housing Data Analytics | Modern Data Engineering GCP Project
 ## Introduction 
-The goal of this project is to perform data analytics on housing data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
+This project's objective is to use a variety of tools and technologies, such as BigQuery, GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, and Looker Studio, to conduct data analytics on housing data.
 # Architecture
+
