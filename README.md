@@ -10,7 +10,7 @@ This project's objective is to use a variety of tools and technologies, such as 
   1. Google Storage
   2. Compute Instance
   3. BigQuery
-  4. Looker Studio
+  4. Microsoft Power BI
   5. Modern Data Pipeline Tool - https://www.mage.ai/
 
 Contribute to this open-source project - https://github.com/mage-ai/mage-ai
