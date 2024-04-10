@@ -23,3 +23,6 @@ I've attended a ton of meetings, laboriously gathered data from numerous departm
 
 # Data Model
 ![Image](https://github.com/sumanthmalipeddi/GoogleCloudDE/blob/main/data_model.JPG)
+# Power BI Dashboard  | Data Visualisation
+![Image](https://github.com/sumanthmalipeddi/GoogleCloudDE/blob/main/Power%20BI%20Report.JPG)
+
